@@ -13,7 +13,7 @@ function MatchList(props) {
       <Match players={ oneMatch.players }
               winner={ oneMatch.winner }
               scoreDifference={oneMatch.scoreDifference}
-               />
+      />
     </section>
   )
 }
